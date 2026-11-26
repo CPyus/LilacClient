@@ -2,9 +2,7 @@
 
 Lilac Client is a community-driven Minecraft mod built around one idea: **the community decides what gets added.**
 
-Feature suggestions come from social media, videos, and community discussions. The most popular ideas get picked up and developed into actual features.
-
-Rather than following a fixed development roadmap, Lilac Client evolves alongside the people who use it.
+Feature suggestions come from Youtube, Instagram, and Tiktok comments as well as the Discord. The most popular ideas get picked up and developed into actual features.
 
 ## How It Works
 
