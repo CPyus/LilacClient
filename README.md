@@ -1,4 +1,4 @@
-# Lilac Client 🌸
+# Lilac Client 
 
 Lilac Client is a community-driven Minecraft mod built around one idea: **the community decides what gets added.**
 
